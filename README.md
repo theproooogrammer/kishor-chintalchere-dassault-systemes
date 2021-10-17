@@ -1,11 +1,11 @@
 # kishor-chintalchere-dassault-systemes
 
 This project contains the list of all BMW es in the showroom. The admin as the access to add,delete,and update the cars in the website. In the Login page if username
-password is admin the admin dashboard opens and the admin can perform his tasks. Otherwise users can logged in an place the order.
+password is 'admin' the admin dashboard opens and the admin can perform his tasks. Otherwise users can logged in an place the order.
 
 The data of the MODEL class BMW is being displayed by rest call and other operation like add,update and delete also uses rest calls. 
 
-For this project files please refer to zip Project-Version-2--->>project-2.3.
+For this project files please refer to zip Project-Version-4--->>project-2.3.
 Thank You.
 
 
